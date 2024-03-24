@@ -1,4 +1,5 @@
-print("git version1(fix bug)")
+print("git version1(fix bug)(fix bug1)")
 print("git add 100% dev(fix bug)")
 print("git add 100% dev1")
 print("git add 100% dev2")
+print("git add 100% dev3")
